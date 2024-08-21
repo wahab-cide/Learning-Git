@@ -2,7 +2,7 @@
 
 Getting Started with Git and GitHub
 
-This GitHub repository is dedicated to my learning of Git as part of the "Introduction to Git and GitHub" course. This course is a component of the larger Google IT Automation with Python Professional Certificate program on Coursera. It aims to equip me with the skills to automate tasks using Python and efficiently manage version control with Git and GitHub.
+This GitHub repository is dedicated to my learning of Git and GitHub as part of the "Introduction to Git and GitHub" course. This course is a component of the larger Google IT Automation with Python Professional Certificate program on Coursera. It aims to equip me with the skills to automate tasks using Python and efficiently manage version control with Git and GitHub.
 
 About This Repository
 This repository serves as a sandbox for practicing various Git commands and workflows that I'm learning throughout the course. You'll find examples, exercises, and notes that help reinforce the concepts of version control, branching, merging, and collaborating using GitHub.
